@@ -4,6 +4,8 @@
 
 **MySQL Workbench**: to access MySQL Database
 
+**chrome developer tools** : Front-end development & debugging 
+
 **notepad++**: as Text editor, compare, find, replace, bookmark, line operation, blank 
 
 operation, column selection mode 
