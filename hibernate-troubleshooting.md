@@ -1,4 +1,4 @@
-# Error and Exception: 
+# Hibernate Framework Error and Exception: 
 
 
 ### - Caused by: org.hibernate.AnnotationException: No identifier specified for entity: my.cool.models.MyEntity 
