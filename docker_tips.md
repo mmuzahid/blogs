@@ -4,7 +4,7 @@
 
 https://docs.docker.com/engine/reference/commandline/docker/
 
-### Show list of running containers
+### List of containers
     
     docker container ls
 
