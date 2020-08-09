@@ -9,7 +9,7 @@ https://docs.docker.com/engine/reference/commandline/docker/
 
         docker container ls
 
--List of All Containers
+- List of All Containers
         
         docker container ls --all
        
@@ -22,3 +22,9 @@ https://docs.docker.com/engine/reference/commandline/docker/
 - Stop a container named `my-memcache`   
  
         docker stop my-memcache  
+
+### Logs of a Container
+
+        docker logs my-memcache
+        
+        
