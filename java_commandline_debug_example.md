@@ -41,7 +41,7 @@
 
       step
     
-- Show Code list
+- Show frames on the current call stack
 
       list
 
