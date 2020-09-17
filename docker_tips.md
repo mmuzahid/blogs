@@ -6,6 +6,7 @@ https://docs.docker.com/engine/reference/commandline/docker/
 
 ### docker info
 - Display system-wide information
+        
         docker info
 
 ### List of Images
